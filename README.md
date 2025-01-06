@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-020" alt="michael-020" /></a> </p>
 
-- 🔭 I’m currently working on **Campus Connect**
+- 🔭 I’m currently working on **Improving my Web Development skills**
 
 - 🌱 I’m currently learning **DevOps**
 

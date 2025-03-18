@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Hosamani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;  gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-020&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px; width: 230px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=michael-020&show_icons=true&locale=en" alt="GitHub Stats" style="height: 250px; margin-right: 20px; width: 250px " />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=michael-020&show_icons=true&locale=en" alt="GitHub Stats" style="height: 350px; margin-right: 20px; width: 350px " />
 </div>
 
 

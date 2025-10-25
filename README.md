@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack developer</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=michael-020&show_icons=true&locale=en" alt="GitHub Stats" style="height: 350px; margin-right: 20px; width: 350px " />
+    <img src="https://github-readme-stats.vercel.app/api?username=michael-020&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 350px; margin-right: 20px; width: 350px " />
 </div>
 
 
